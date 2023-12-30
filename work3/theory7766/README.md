@@ -4,4 +4,4 @@ https://github.com/theory7766/222200305.git
 
 ##2.作业完成度：
 
-完成jdbc工具类的编写
+项目介绍：依照第三轮考核要求，使用mysql，JDBC实现商品管理系统。
